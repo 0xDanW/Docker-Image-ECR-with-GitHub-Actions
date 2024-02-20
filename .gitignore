@@ -117,3 +117,6 @@ dist
 #main configs
 config/*
 .DS_Store
+
+# Misc scripts
+git-add-commit-push.sh
